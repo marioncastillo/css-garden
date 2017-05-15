@@ -1,1 +1,77 @@
-/* Agrega aquí tus estilos*/
+
+
+*{
+	font-family: 'Din', sans-serif;
+}
+
+
+body{
+	background-image: url(../perito.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: #F0FFFF;
+}
+
+#css-zen-garden{
+	color: black;
+	font-size: 18px;
+	padding: 60px;
+	background-color: ##F0FFFF;
+}
+h1{
+	font-size: 50px;
+	background-color: #ff920a;
+	color: whitesmoke;
+	text-align: center;
+	padding: 10px;
+	margin: 0;
+}
+
+h2{
+font-size: 30px;
+	background-color: #feb645;
+	color: #ff920a;
+	text-align: center;
+	padding: 10px;
+	margin: 0;
+}
+
+h3{
+	font-size: 20px;
+	background-color: #ffe66b;
+	color: #67c90c;
+	text-align: center;
+	padding: 10px;
+	margin: 0;
+}
+
+.summary{
+	font-family: "Futura", sans-serif;	
+	color:black;
+	text-align: center;
+	font-size: 30px;
+	padding: 130px;
+}
+
+
+p> abbr {
+	color: green;
+}
+
+p {
+	padding: 10px;;
+}
+
+ul
+{
+	color: green;
+}
+
+footer{
+	font-size: 16px;
+	background-color: #ff920a;
+	color: whitesmoke;
+	text-align: center;
+	padding: 30px;
+	margin: 0;
+}
